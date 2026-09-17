@@ -1,0 +1,6 @@
+{
+  "Name": "Merge_Conflict Issue",
+  "ProjectType": "Tests",
+  "Description": "Test Automation Project",
+  "MainFile": "Main.xaml"
+}
