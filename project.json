@@ -52,13 +52,6 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "Testcase_FeatureBranch.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "f87a2d72-7f30-4beb-a49e-ca7be2b37ac5",
-        "testCaseType": "TestCase",
-        "executionTemplateInvokeIsolated": false,
-        "fileName": "TestCaseA.xaml"
       }
     ],
     "saveToCloud": false
