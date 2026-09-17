@@ -45,13 +45,6 @@
         "testCaseId": "e3a148f1-bd89-4f8e-84f8-194e125f3e9f",
         "testCaseType": "TestCase",
         "fileName": "Testcase_MainBranch.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "4e14e19b-06ca-4824-b33b-3030c48e1716",
-        "testCaseType": "TestCase",
-        "executionTemplateInvokeIsolated": false,
-        "fileName": "Added_Testcase_Mainbranch.xaml"
       }
     ],
     "saveToCloud": false
